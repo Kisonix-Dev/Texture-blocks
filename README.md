@@ -57,4 +57,4 @@
 | Registry name: | texture_blocks |
 | Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
 
-# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Documentation) 
+# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home) 
