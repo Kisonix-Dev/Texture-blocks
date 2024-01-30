@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "texture_blocks:items/book_guide"
+  }
+}
