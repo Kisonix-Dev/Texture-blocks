@@ -1,5 +1,5 @@
 Java Launcher: C:\Users\kison\.mcreator\gradle\jdks\jdk8u402-b06\bin\java.exe
-Arguments: '--in-jar, C:\Users\kison\Documents\GitHub\Texture-Blocks\build\libs\modid-1.0.jar, --out-jar, C:\Users\kison\Documents\GitHub\Texture-Blocks\build\reobfJar\output.jar, --srg-in, C:\Users\kison\Documents\GitHub\Texture-Blocks\build\createMcpToSrg\output.tsrg, --live'
+Arguments: '--in-jar, C:\Users\kison\Documents\GitHub\Texture-blocks\build\libs\modid-1.0.jar, --out-jar, C:\Users\kison\Documents\GitHub\Texture-blocks\build\reobfJar\output.jar, --srg-in, C:\Users\kison\Documents\GitHub\Texture-blocks\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\kison\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.11.0\SpecialSource-1.11.0-shaded.jar
  - C:\Users\kison\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3-recomp.jar
@@ -66,7 +66,7 @@ Classpath:
  - C:\Users\kison\.mcreator\gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar
  - C:\Users\kison\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
  - C:\Users\kison\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
-Working directory: C:\Users\kison\Documents\GitHub\Texture-Blocks\build\reobfJar
+Working directory: C:\Users\kison\Documents\GitHub\Texture-blocks\build\reobfJar
 Main class: net.md_5.specialsource.SpecialSource
 ====================================
 Loading mappings
