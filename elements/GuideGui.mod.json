@@ -13,14 +13,14 @@
       {
         "type": "label",
         "data": {
-          "text": "Список блоков",
+          "text": "List of blocks",
           "color": {
             "value": -12829636,
             "falpha": 0.0
           },
-          "name": "Список блоков",
-          "x": 179,
-          "y": 49
+          "name": "List of blocks",
+          "x": 176,
+          "y": 48
         }
       }
     ],

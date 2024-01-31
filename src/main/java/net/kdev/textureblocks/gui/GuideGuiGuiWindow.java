@@ -72,7 +72,7 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 
 	@Override
 	protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
-		this.font.drawString(ms, "\u0421\u043F\u0438\u0441\u043E\u043A \u0431\u043B\u043E\u043A\u043E\u0432", 53, 12, -12829636);
+		this.font.drawString(ms, "List of blocks", 50, 11, -12829636);
 	}
 
 	@Override

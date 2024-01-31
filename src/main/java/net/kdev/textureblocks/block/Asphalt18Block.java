@@ -23,7 +23,7 @@ import java.util.Collections;
 
 @TextureBlocksModElements.ModElement.Tag
 public class Asphalt18Block extends TextureBlocksModElements.ModElement {
-	@ObjectHolder("texture_blocks:asphalt_18_1")
+	@ObjectHolder("texture_blocks:asphalt_18")
 	public static final Block block = null;
 
 	public Asphalt18Block(TextureBlocksModElements instance) {
@@ -41,7 +41,7 @@ public class Asphalt18Block extends TextureBlocksModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1.5f, 6f).setLightLevel(s -> 0).harvestLevel(1)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
-			setRegistryName("asphalt_18_1");
+			setRegistryName("asphalt_18");
 		}
 
 		@Override
