@@ -3,6 +3,10 @@
 > [!NOTE]
 > If you do not speak the Java programming language, then we have given you the opportunity to take part in editing the code of our mod using the software - Mcreator.
 
+> [!WARNING]
+> This mod is mainly designed for our project ATLANT RP.
+> Therefore, there may be incorrect textures in fashion.
+
 • Hello. I recently developed a mod called Texture blocks.
 
 • Maud presents 2.000+ blocks of different shades of texture.
