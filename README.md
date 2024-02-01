@@ -25,7 +25,7 @@
 | --- |
 | Asphalt |
 | Concrete |
-| Paving stones |
+| Cobblestone |
 | Soil |
 | Dirt |
 | Tree |
