@@ -19,6 +19,42 @@
 - [ ] Mod assembly.
 - [ ] Publishing a mod. :tada:
 
+# The mod includes block textures such as 
+
+| Name |
+| --- |
+| Asphalt |
+| Concrete |
+| Paving stones |
+| Soil |
+| Dirt |
+| Tree |
+| For the casino |
+| Boards |
+| Stones |
+| Bricks |
+| Carpets |
+| Laminate |
+| Linoleum |
+| Hatches |
+| Metal |
+| Moss |
+| Marble |
+| arble tiles |
+| Garbage |
+| Wallpaper |
+| Panels |
+| Parquet |
+| Pastel shades |
+| Sandstone |
+| Tile |
+| Ceiling |
+| Textile |
+| Grass |
+| Path |
+| Roof tiles |
+| Crushed stone |
+
 # Information about the modification
 
 | Name | Description |
