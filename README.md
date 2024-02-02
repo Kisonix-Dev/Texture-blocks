@@ -34,7 +34,6 @@
 | Granite |
 | Ground |
 | Dirt |
-| For the casino |
 | Boards |
 | Stones |
 | Bricks |
@@ -45,12 +44,10 @@
 | Metal |
 | Moss |
 | Marble |
-| arble tiles |
-| Garbage |
+| Marble tiles |
 | Wallpaper |
 | Panels |
 | Parquet |
-| Pastel shades |
 | Sandstone |
 | Tile |
 | Ceiling |
