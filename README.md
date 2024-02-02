@@ -20,8 +20,9 @@
 # Brief Development Stages
 
 - [X] Publication of news about the modification.
-- [ ] Mod assembly.
-- [ ] Publishing a mod. :tada:
+- [X] Mod assembly.
+- [X] Publishing a mod.
+- [ ] Release. :tada:
 
 # The mod includes block textures such as 
 
@@ -30,9 +31,9 @@
 | Asphalt |
 | Concrete |
 | Cobblestone |
-| Soil |
+| Granite |
+| Ground |
 | Dirt |
-| Tree |
 | For the casino |
 | Boards |
 | Stones |
