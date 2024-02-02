@@ -31,9 +31,9 @@
 | Asphalt |
 | Concrete |
 | Cobblestone |
-| Soil |
+| Granite |
+| Ground |
 | Dirt |
-| Tree |
 | For the casino |
 | Boards |
 | Stones |
