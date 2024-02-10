@@ -5,12 +5,16 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.World;
+import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.gui.widget.button.Button;
 import net.minecraft.client.gui.screen.inventory.ContainerScreen;
 import net.minecraft.client.Minecraft;
+
+import net.kdev.textureblocks.TextureBlocksMod;
 
 import java.util.HashMap;
 
@@ -31,7 +35,7 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 		this.y = container.y;
 		this.z = container.z;
 		this.entity = container.entity;
-		this.xSize = 176;
+		this.xSize = 342;
 		this.ySize = 166;
 	}
 
@@ -72,7 +76,16 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 
 	@Override
 	protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
-		this.font.drawString(ms, "List of blocks", 50, 11, -12829636);
+		this.font.drawString(ms, "List of blocks for (World Edit) ", 89, 7, -12829636);
+		this.font.drawString(ms, "Asphalt - ID_1", 8, 16, -12829636);
+		this.font.drawString(ms, "Concrete - ID_2", 8, 25, -12829636);
+		this.font.drawString(ms, "Cobblestone - ID_3", 8, 34, -12829636);
+		this.font.drawString(ms, "Granite ID_4", 8, 43, -12829636);
+		this.font.drawString(ms, "Ground - ID_5", 8, 52, -12829636);
+		this.font.drawString(ms, "Dirt - ID_6", 8, 61, -12829636);
+		this.font.drawString(ms, "Wood - ID_7", 8, 70, -12829636);
+		this.font.drawString(ms, "Woodenplanks - ID_8", 8, 79, -12829636);
+		this.font.drawString(ms, "Example: //set Asphalt_10_1", 8, 142, -13408513);
 	}
 
 	@Override
@@ -85,5 +98,11 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 	public void init(Minecraft minecraft, int width, int height) {
 		super.init(minecraft, width, height);
 		minecraft.keyboardListener.enableRepeatEvents(true);
+		this.addButton(new Button(this.guiLeft + 278, this.guiTop + 133, 46, 20, new StringTextComponent("Exit"), e -> {
+			if (true) {
+				TextureBlocksMod.PACKET_HANDLER.sendToServer(new GuideGuiGui.ButtonPressedMessage(0, x, y, z));
+				GuideGuiGui.handleButtonAction(entity, 0, x, y, z);
+			}
+		}));
 	}
 }

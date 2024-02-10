@@ -3,7 +3,7 @@
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 176,
+    "width": 342,
     "height": 166,
     "inventoryOffsetX": 0,
     "inventoryOffsetY": 0,
@@ -13,14 +13,145 @@
       {
         "type": "label",
         "data": {
-          "text": "List of blocks",
+          "text": "List of blocks for (World Edit) ",
           "color": {
             "value": -12829636,
             "falpha": 0.0
           },
-          "name": "List of blocks",
-          "x": 176,
-          "y": 48
+          "name": "List of blocks for (World Edit) ",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Exit",
+          "onClick": {
+            "name": "Exitgui"
+          },
+          "width": 46,
+          "height": 20,
+          "name": "Exit",
+          "x": 321,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Asphalt - ID_1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Asphalt - ID_1",
+          "x": 51,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Concrete - ID_2",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Concrete - ID_2",
+          "x": 51,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Cobblestone - ID_3",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Cobblestone - ID_3",
+          "x": 51,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Granite ID_4",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Granite ID_4",
+          "x": 51,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Ground - ID_5",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Ground - ID_5",
+          "x": 51,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Dirt - ID_6",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Dirt - ID_6",
+          "x": 51,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Wood - ID_7",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Wood - ID_7",
+          "x": 51,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Woodenplanks - ID_8",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Woodenplanks - ID_8",
+          "x": 51,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Example: //set Asphalt_10_1",
+          "color": {
+            "value": -13408513,
+            "falpha": 0.0
+          },
+          "name": "Example: //set Asphalt_10_1",
+          "x": 51,
+          "y": 179
         }
       }
     ],
@@ -29,7 +160,7 @@
       "sy": 18,
       "ox": 11,
       "oy": 15,
-      "snapOnGrid": false
+      "snapOnGrid": true
     }
   }
 }
