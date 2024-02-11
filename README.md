@@ -34,6 +34,8 @@
 | Granite |
 | Ground |
 | Dirt |
+| Wood |
+| Wooden planks |
 | Boards |
 | Stones |
 | Bricks |
