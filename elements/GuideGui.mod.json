@@ -144,14 +144,27 @@
       {
         "type": "label",
         "data": {
-          "text": "Example: //set Asphalt_10_1",
+          "text": "Example: //set texture_blocks:asphalt_1",
           "color": {
             "value": -13408513,
             "falpha": 0.0
           },
-          "name": "Example: //set Asphalt_10_1",
+          "name": "Example: //set texture_blocks:asphalt_1",
           "x": 51,
           "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Stone - ID_9",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Stone - ID_9",
+          "x": 51,
+          "y": 125
         }
       }
     ],
