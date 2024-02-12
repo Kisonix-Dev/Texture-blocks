@@ -166,6 +166,19 @@
           "x": 51,
           "y": 125
         }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Brick - ID_10",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Brick - ID_10",
+          "x": 51,
+          "y": 134
+        }
       }
     ],
     "gridSettings": {
