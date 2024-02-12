@@ -24,6 +24,13 @@
 - [X] Publishing a mod.
 - [ ] Release. :tada:
 
+# Problem with some textures 
+
+I know about the problem of some textures that do not repeat nicely on blocks. I'll fix all these textures to normal later!
+You can see an example in the screenshots below.
+
+![Spectrum_Blocks_logo](img/error.png)
+
 # The mod includes block textures such as 
 
 | Name |
