@@ -7,6 +7,9 @@
 > This mod is mainly designed for our project ATLANT RP.
 > Therefore, there may be incorrect textures in fashion.
 
+# [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
+# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+
 • Hello. I recently developed a mod called Texture blocks.
 
 • Maud presents 2.000+ blocks of different shades of texture.
@@ -103,5 +106,3 @@ You can see an example in the screenshots below.
 | Name: | Texture blocks |
 | Registry name: | texture_blocks |
 | Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
-
-# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home) 
