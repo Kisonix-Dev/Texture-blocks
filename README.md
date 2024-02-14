@@ -7,6 +7,9 @@
 > This mod is mainly designed for our project ATLANT RP.
 > Therefore, there may be incorrect textures in fashion.
 
+# [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
+# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+
 • Hello. I recently developed a mod called Texture blocks.
 
 • Maud presents 2.000+ blocks of different shades of texture.
@@ -23,6 +26,13 @@
 - [X] Mod assembly.
 - [X] Publishing a mod.
 - [ ] Release. :tada:
+
+# Problem with some textures 
+
+I know about the problem of some textures that do not repeat nicely on blocks. I'll fix all these textures to normal later!
+You can see an example in the screenshots below.
+
+![Spectrum_Blocks_logo](img/error.png)
 
 # The mod includes block textures such as 
 
@@ -96,5 +106,3 @@
 | Name: | Texture blocks |
 | Registry name: | texture_blocks |
 | Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
-
-# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home) 
