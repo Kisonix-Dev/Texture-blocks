@@ -76,18 +76,20 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 
 	@Override
 	protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
-		this.font.drawString(ms, "List of blocks for (World Edit) ", 89, 7, -12829636);
-		this.font.drawString(ms, "Asphalt - ID_1", 8, 16, -12829636);
-		this.font.drawString(ms, "Concrete - ID_2", 8, 25, -12829636);
-		this.font.drawString(ms, "Cobblestone - ID_3", 8, 34, -12829636);
-		this.font.drawString(ms, "Granite ID_4", 8, 43, -12829636);
-		this.font.drawString(ms, "Ground - ID_5", 8, 52, -12829636);
-		this.font.drawString(ms, "Dirt - ID_6", 8, 61, -12829636);
-		this.font.drawString(ms, "Wood - ID_7", 8, 70, -12829636);
-		this.font.drawString(ms, "Woodenplanks - ID_8", 8, 79, -12829636);
-		this.font.drawString(ms, "Example: //set texture_blocks:asphalt_1", 8, 142, -13408513);
-		this.font.drawString(ms, "Stone - ID_9", 8, 88, -12829636);
-		this.font.drawString(ms, "Brick - ID_10", 8, 97, -12829636);
+		this.font.drawString(ms, "Material ID (Texture) ", 113, 6, -12829636);
+		this.font.drawString(ms, "Asphalt - ID_1", 8, 25, -12829636);
+		this.font.drawString(ms, "Concrete - ID_2", 8, 34, -12829636);
+		this.font.drawString(ms, "Cobblestone - ID_3", 8, 43, -12829636);
+		this.font.drawString(ms, "Granite ID_4", 8, 52, -12829636);
+		this.font.drawString(ms, "Ground - ID_5", 8, 61, -12829636);
+		this.font.drawString(ms, "Dirt - ID_6", 8, 70, -12829636);
+		this.font.drawString(ms, "Wood - ID_7", 8, 79, -12829636);
+		this.font.drawString(ms, "Woodenplanks - ID_8", 8, 88, -12829636);
+		this.font.drawString(ms, "Example: //set texture_blocks:asphalt_7", 9, 146, -13408513);
+		this.font.drawString(ms, "Stone - ID_9", 8, 97, -12829636);
+		this.font.drawString(ms, "Brick - ID_10", 8, 106, -12829636);
+		this.font.drawString(ms, "Carpet - ID_11", 8, 115, -12829636);
+		this.font.drawString(ms, "World Edit", 144, 129, -12829636);
 	}
 
 	@Override
@@ -100,7 +102,7 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 	public void init(Minecraft minecraft, int width, int height) {
 		super.init(minecraft, width, height);
 		minecraft.keyboardListener.enableRepeatEvents(true);
-		this.addButton(new Button(this.guiLeft + 278, this.guiTop + 133, 46, 20, new StringTextComponent("Exit"), e -> {
+		this.addButton(new Button(this.guiLeft + 289, this.guiTop + 140, 46, 20, new StringTextComponent("Exit"), e -> {
 			if (true) {
 				TextureBlocksMod.PACKET_HANDLER.sendToServer(new GuideGuiGui.ButtonPressedMessage(0, x, y, z));
 				GuideGuiGui.handleButtonAction(entity, 0, x, y, z);

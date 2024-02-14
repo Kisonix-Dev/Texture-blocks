@@ -13,14 +13,14 @@
       {
         "type": "label",
         "data": {
-          "text": "List of blocks for (World Edit) ",
+          "text": "Material ID (Texture) ",
           "color": {
             "value": -12829636,
             "falpha": 0.0
           },
-          "name": "List of blocks for (World Edit) ",
-          "x": 132,
-          "y": 44
+          "name": "Material ID (Texture) ",
+          "x": 156,
+          "y": 43
         }
       },
       {
@@ -33,8 +33,8 @@
           "width": 46,
           "height": 20,
           "name": "Exit",
-          "x": 321,
-          "y": 170
+          "x": 332,
+          "y": 177
         }
       },
       {
@@ -47,7 +47,7 @@
           },
           "name": "Asphalt - ID_1",
           "x": 51,
-          "y": 53
+          "y": 62
         }
       },
       {
@@ -60,7 +60,7 @@
           },
           "name": "Concrete - ID_2",
           "x": 51,
-          "y": 62
+          "y": 71
         }
       },
       {
@@ -73,7 +73,7 @@
           },
           "name": "Cobblestone - ID_3",
           "x": 51,
-          "y": 71
+          "y": 80
         }
       },
       {
@@ -86,7 +86,7 @@
           },
           "name": "Granite ID_4",
           "x": 51,
-          "y": 80
+          "y": 89
         }
       },
       {
@@ -99,7 +99,7 @@
           },
           "name": "Ground - ID_5",
           "x": 51,
-          "y": 89
+          "y": 98
         }
       },
       {
@@ -112,7 +112,7 @@
           },
           "name": "Dirt - ID_6",
           "x": 51,
-          "y": 98
+          "y": 107
         }
       },
       {
@@ -125,7 +125,7 @@
           },
           "name": "Wood - ID_7",
           "x": 51,
-          "y": 107
+          "y": 116
         }
       },
       {
@@ -138,20 +138,20 @@
           },
           "name": "Woodenplanks - ID_8",
           "x": 51,
-          "y": 116
+          "y": 125
         }
       },
       {
         "type": "label",
         "data": {
-          "text": "Example: //set texture_blocks:asphalt_1",
+          "text": "Example: //set texture_blocks:asphalt_7",
           "color": {
             "value": -13408513,
             "falpha": 0.0
           },
-          "name": "Example: //set texture_blocks:asphalt_1",
-          "x": 51,
-          "y": 179
+          "name": "Example: //set texture_blocks:asphalt_7",
+          "x": 52,
+          "y": 183
         }
       },
       {
@@ -164,7 +164,7 @@
           },
           "name": "Stone - ID_9",
           "x": 51,
-          "y": 125
+          "y": 134
         }
       },
       {
@@ -177,7 +177,33 @@
           },
           "name": "Brick - ID_10",
           "x": 51,
-          "y": 134
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Carpet - ID_11",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Carpet - ID_11",
+          "x": 51,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "World Edit",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "World Edit",
+          "x": 187,
+          "y": 166
         }
       }
     ],
@@ -186,7 +212,7 @@
       "sy": 18,
       "ox": 11,
       "oy": 15,
-      "snapOnGrid": true
+      "snapOnGrid": false
     }
   }
 }
