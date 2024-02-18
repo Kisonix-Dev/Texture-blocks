@@ -1,0 +1,14 @@
+newmtl mat_stormwind_shop_sign_chain
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/stormwind_shop_sign_chain
+Ns 0.0
+d 1.0
+newmtl mat_stormwind_shop_sign_tavern
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/stormwind_shop_sign_tavern
+Ns 0.0
+d 1.0

@@ -32,6 +32,7 @@ import net.minecraft.inventory.container.Container;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.Minecraft;
 import net.minecraft.block.BlockState;
 
@@ -42,6 +43,8 @@ import net.kdev.textureblocks.TextureBlocksModElements;
 
 import javax.annotation.Nullable;
 import javax.annotation.Nonnull;
+
+import java.util.List;
 
 import io.netty.buffer.Unpooled;
 
@@ -84,6 +87,18 @@ public class BookGuideItem extends TextureBlocksModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		@OnlyIn(Dist.CLIENT)
+		public boolean hasEffect(ItemStack itemstack) {
+			return true;
+		}
+
+		@Override
+		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
+			super.addInformation(itemstack, world, list, flag);
+			list.add(new StringTextComponent("Block Information"));
 		}
 
 		@Override

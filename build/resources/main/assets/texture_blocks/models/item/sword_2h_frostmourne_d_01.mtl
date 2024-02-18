@@ -1,0 +1,42 @@
+newmtl mat_frostmournea
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/sword_2h_frostmourne_d_01
+Ns 100.0
+d 1.0
+newmtl mat_frostmournefrost
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/
+Ns 100.0
+d 1.0
+newmtl mat_sword_2h_frostmourne_d_01
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/
+Ns 100.0
+d 1.0
+newmtl mat_armorreflect4
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/
+Ns 100.0
+d 1.0
+newmtl mat_frostmourneblade
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/
+Ns 100.0
+d 1.0
+newmtl mat_smoothreflect
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd texture_blocks:blocks/
+Ns 100.0
+d 1.0

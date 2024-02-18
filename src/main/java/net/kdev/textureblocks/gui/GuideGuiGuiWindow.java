@@ -90,6 +90,8 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 		this.font.drawString(ms, "Brick - ID_10", 8, 106, -12829636);
 		this.font.drawString(ms, "Carpet - ID_11", 8, 115, -12829636);
 		this.font.drawString(ms, "World Edit", 144, 129, -12829636);
+		this.font.drawString(ms, "Laminate - ID_12", 113, 25, -12829636);
+		this.font.drawString(ms, "Linoleum - ID_13", 113, 34, -12829636);
 	}
 
 	@Override
@@ -102,7 +104,7 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 	public void init(Minecraft minecraft, int width, int height) {
 		super.init(minecraft, width, height);
 		minecraft.keyboardListener.enableRepeatEvents(true);
-		this.addButton(new Button(this.guiLeft + 289, this.guiTop + 140, 46, 20, new StringTextComponent("Exit"), e -> {
+		this.addButton(new Button(this.guiLeft + 286, this.guiTop + 138, 46, 20, new StringTextComponent("Exit"), e -> {
 			if (true) {
 				TextureBlocksMod.PACKET_HANDLER.sendToServer(new GuideGuiGui.ButtonPressedMessage(0, x, y, z));
 				GuideGuiGui.handleButtonAction(entity, 0, x, y, z);

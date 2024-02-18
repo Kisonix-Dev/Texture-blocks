@@ -24,8 +24,10 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [],
-    "hasGlow": false,
+    "specialInfo": [
+      "Block Information"
+    ],
+    "hasGlow": true,
     "guiBoundTo": "GuideGui",
     "inventorySize": 9,
     "inventoryStackSize": 64,
