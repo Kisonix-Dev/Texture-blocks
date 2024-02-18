@@ -46,13 +46,13 @@ You can see an example in the screenshots below.
 | Dirt |
 | Wood |
 | Wooden planks |
-| Boards |
 | Stones |
 | Bricks |
 | Carpets |
 | Laminate |
 | Linoleum |
-| Hatches |
+| Moss |
+| Marble tiles |
 | Metal |
 | Moss |
 | Marble |
