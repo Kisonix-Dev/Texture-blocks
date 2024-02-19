@@ -1,14 +1,14 @@
 ![Spectrum_Blocks_logo](img/Texture_blocks_logo.png)
 # Texture blocks 
+🔗 [Social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
+🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+
 > [!NOTE]
 > If you do not speak the Java programming language, then we have given you the opportunity to take part in editing the code of our mod using the software - Mcreator.
 
 > [!WARNING]
 > This mod is mainly designed for our project ATLANT RP.
 > Therefore, there may be incorrect textures in fashion.
-
-# 🔗 [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
-# 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 
 • Hello. I recently developed a mod called Texture blocks.
 
@@ -36,7 +36,8 @@ You can see an example in the screenshots below.
 
 ![Spectrum_Blocks_logo](img/error.png)
 
-# The mod includes block textures such as 
+<details>
+<summary>List of blocks</summary>
 
 | Name |
 | --- |
@@ -64,8 +65,10 @@ You can see an example in the screenshots below.
 | Grass |
 | Roof tiles |
 | Crushed stone |
+</details>
 
-# Information about the modification
+<details>
+<summary>Information about the modification</summary>
 
 | Name | Description |
 | --- | --- |
@@ -81,8 +84,10 @@ You can see an example in the screenshots below.
 | Lights up from lava: | No |
 | Block has craft: | No |
 | Generation in the world: | No |
+</details>
 
-# Destruction
+<details>
+<summary>Destruction</summary>
 
 | Name | Description |
 | --- | --- |
@@ -94,11 +99,14 @@ You can see an example in the screenshots below.
 | Diamond: | 0.3 |
 | Netherite: | 0.25 |
 | Gold: | 0.2 |
+<details>
 
-# Identification values ID
-
+<details>
+<summary>Identification values ID</summary>
+  
 | Name | Description |
 | --- | --- |
 | Name: | Texture blocks |
 | Registry name: | texture_blocks |
 | Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
+<details>
