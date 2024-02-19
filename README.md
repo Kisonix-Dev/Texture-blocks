@@ -7,8 +7,8 @@
 > This mod is mainly designed for our project ATLANT RP.
 > Therefore, there may be incorrect textures in fashion.
 
-# [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
-# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+# 🔗 [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
+# 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 
 • Hello. I recently developed a mod called Texture blocks.
 
@@ -25,6 +25,8 @@
 - [X] Publication of news about the modification.
 - [X] Mod assembly.
 - [X] Publishing a mod.
+- [ ] Testing. 
+- [ ] Bug fixes. 
 - [ ] Release. :tada:
 
 # Problem with some textures 
@@ -53,19 +55,13 @@ You can see an example in the screenshots below.
 | Linoleum |
 | Moss |
 | Marble tiles |
-| Metal |
-| Moss |
-| Marble |
-| Marble tiles |
-| Wallpaper |
 | Panels |
 | Parquet |
+| Wallpapers |
 | Sandstone |
-| Tile |
+| Tiles |
 | Ceiling |
-| Textile |
 | Grass |
-| Path |
 | Roof tiles |
 | Crushed stone |
 
