@@ -35,8 +35,7 @@ You can see an example in the screenshots below.
 
 ![Spectrum_Blocks_logo](img/error.png)
 
-<details>
-<summary>List of blocks</summary>
+# List of blocks
 
 | Name |
 | --- |
@@ -64,14 +63,12 @@ You can see an example in the screenshots below.
 | Grass |
 | Roof tiles |
 | Crushed stone |
-</details>
 
-<details>
-<summary>Information about the modification</summary>
+# Information about the modification 
 
 | Name | Description |
 | --- | --- |
-| Type: | Solid Block |
+| Type: | Mixed blocks |
 | Requirements: | No |
 | Does gravity work: | No |
 | Transparency: | No |
@@ -83,29 +80,24 @@ You can see an example in the screenshots below.
 | Lights up from lava: | No |
 | Block has craft: | No |
 | Generation in the world: | No |
-</details>
 
-<details>
-<summary>Destruction</summary>
+# Destruction 
 
 | Name | Description |
 | --- | --- |
 | Block: | All texture blocks |
-| Tool: | pickaxe |
+| Tool: | Mixed |
 | Wooden: | 1.15 |
 | Stone: | 0.6 |
 | Iron: | 0.4 |
 | Diamond: | 0.3 |
 | Netherite: | 0.25 |
 | Gold: | 0.2 |
-<details>
 
-<details>
-<summary>Identification values ID</summary>
-  
+# Identification values ID
+
 | Name | Description |
 | --- | --- |
 | Name: | Texture blocks |
 | Registry name: | texture_blocks |
-| Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
-<details>
+| Command: | texture_blocks:(Material ID) (Block ID) |
