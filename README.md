@@ -1,5 +1,4 @@
 ![Spectrum_Blocks_logo](img/Texture_blocks_logo.png)
-# Texture blocks 
 🔗 [Social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 
