@@ -231,6 +231,32 @@
           "x": 156,
           "y": 71
         }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Moss - ID_14",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Moss - ID_14",
+          "x": 156,
+          "y": 81
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Marble tiles - ID_15",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Marble tiles - ID_15",
+          "x": 156,
+          "y": 91
+        }
       }
     ],
     "gridSettings": {

@@ -92,6 +92,8 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 		this.font.drawString(ms, "World Edit", 144, 129, -12829636);
 		this.font.drawString(ms, "Laminate - ID_12", 113, 25, -12829636);
 		this.font.drawString(ms, "Linoleum - ID_13", 113, 34, -12829636);
+		this.font.drawString(ms, "Moss - ID_14", 113, 44, -12829636);
+		this.font.drawString(ms, "Marble tiles - ID_15", 113, 54, -12829636);
 	}
 
 	@Override

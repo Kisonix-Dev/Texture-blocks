@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.kdev.textureblocks.block.Asphalt2Block;
+import net.kdev.textureblocks.block.Cobblestone31Block;
 import net.kdev.textureblocks.TextureBlocksModElements;
 
 @TextureBlocksModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class TextureBlocksItemGroup extends TextureBlocksModElements.ModElement 
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(Asphalt2Block.block);
+				return new ItemStack(Cobblestone31Block.block);
 			}
 
 			@OnlyIn(Dist.CLIENT)
