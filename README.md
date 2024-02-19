@@ -1,6 +1,9 @@
 ![Spectrum_Blocks_logo](img/Texture_blocks_logo.png)
-🔗 [Social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
+🔗 [All social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Social-media)
+🔗 [Twitter](https://twitter.com/Kisonix_dev)
+🔗 [Reddit](https://www.reddit.com/user/Kisonix)
 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+🔗 [Planet Minecraft](https://www.planetminecraft.com/mod/texture-blocks/)
 
 > [!NOTE]
 > If you do not speak the Java programming language, then we have given you the opportunity to take part in editing the code of our mod using the software - Mcreator.
