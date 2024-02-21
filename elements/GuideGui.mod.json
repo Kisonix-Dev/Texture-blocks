@@ -33,7 +33,7 @@
           "width": 46,
           "height": 20,
           "name": "Exit",
-          "x": 329,
+          "x": 331,
           "y": 175
         }
       },
@@ -256,6 +256,45 @@
           "name": "Marble tiles - ID_15",
           "x": 156,
           "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Panels - ID_16",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Panels - ID_16",
+          "x": 156,
+          "y": 100
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Parquet - ID_17",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Parquet - ID_17",
+          "x": 156,
+          "y": 110
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Wallpapers - ID_18 ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Wallpapers - ID_18 ",
+          "x": 156,
+          "y": 121
         }
       }
     ],
