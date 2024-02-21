@@ -1,14 +1,16 @@
 ![Spectrum_Blocks_logo](img/Texture_blocks_logo.png)
-# Texture blocks 
+🔗 [All social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Social-media)
+🔗 [Twitter](https://twitter.com/Kisonix_dev)
+🔗 [Reddit](https://www.reddit.com/user/Kisonix)
+🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
+🔗 [Planet Minecraft](https://www.planetminecraft.com/mod/texture-blocks/)
+
 > [!NOTE]
 > If you do not speak the Java programming language, then we have given you the opportunity to take part in editing the code of our mod using the software - Mcreator.
 
 > [!WARNING]
 > This mod is mainly designed for our project ATLANT RP.
 > Therefore, there may be incorrect textures in fashion.
-
-# [Links](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Links)
-# [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 
 • Hello. I recently developed a mod called Texture blocks.
 
@@ -25,6 +27,8 @@
 - [X] Publication of news about the modification.
 - [X] Mod assembly.
 - [X] Publishing a mod.
+- [ ] Testing. 
+- [ ] Bug fixes. 
 - [ ] Release. :tada:
 
 # Problem with some textures 
@@ -34,7 +38,7 @@ You can see an example in the screenshots below.
 
 ![Spectrum_Blocks_logo](img/error.png)
 
-# The mod includes block textures such as 
+# List of blocks
 
 | Name |
 | --- |
@@ -53,27 +57,21 @@ You can see an example in the screenshots below.
 | Linoleum |
 | Moss |
 | Marble tiles |
-| Metal |
-| Moss |
-| Marble |
-| Marble tiles |
-| Wallpaper |
 | Panels |
 | Parquet |
+| Wallpapers |
 | Sandstone |
-| Tile |
+| Tiles |
 | Ceiling |
-| Textile |
 | Grass |
-| Path |
 | Roof tiles |
 | Crushed stone |
 
-# Information about the modification
+# Information about the modification 
 
 | Name | Description |
 | --- | --- |
-| Type: | Solid Block |
+| Type: | Mixed blocks |
 | Requirements: | No |
 | Does gravity work: | No |
 | Transparency: | No |
@@ -86,12 +84,12 @@ You can see an example in the screenshots below.
 | Block has craft: | No |
 | Generation in the world: | No |
 
-# Destruction
+# Destruction 
 
 | Name | Description |
 | --- | --- |
 | Block: | All texture blocks |
-| Tool: | pickaxe |
+| Tool: | Mixed |
 | Wooden: | 1.15 |
 | Stone: | 0.6 |
 | Iron: | 0.4 |
@@ -105,4 +103,4 @@ You can see an example in the screenshots below.
 | --- | --- |
 | Name: | Texture blocks |
 | Registry name: | texture_blocks |
-| Command: | texture_blocks:textureblocks_?- from: ? to: ?. |
+| Command: | texture_blocks:(Material ID) (Block ID) |
