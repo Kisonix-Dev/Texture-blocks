@@ -5,8 +5,6 @@
 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 🔗 [Planet Minecraft](https://www.planetminecraft.com/mod/texture-blocks/)
 
-# I'm leaving soon from vacation. 
-
 > [!NOTE]
 > If you do not speak the Java programming language, then we have given you the opportunity to take part in editing the code of our mod using the software - Mcreator.
 
