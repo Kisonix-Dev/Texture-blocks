@@ -33,8 +33,8 @@
           "width": 46,
           "height": 20,
           "name": "Exit",
-          "x": 331,
-          "y": 175
+          "x": 330,
+          "y": 174
         }
       },
       {
@@ -295,6 +295,19 @@
           "name": "Wallpapers - ID_18 ",
           "x": 156,
           "y": 121
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sandstone - ID_19",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Sandstone - ID_19",
+          "x": 156,
+          "y": 133
         }
       }
     ],

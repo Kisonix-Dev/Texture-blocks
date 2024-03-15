@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="texture_blocks"
+version="1.0.2"
+displayName="Texture blocks"
+credits="Kisonix"
+displayURL="https://github.com/Kisonix-Dev/Texture-Blocks"
+logoFile="logo.png"
+authors="Kisonix"
+description='''
+Over 2,000 texture blocks for building. 
+'''
+
+[[dependencies.texture_blocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
