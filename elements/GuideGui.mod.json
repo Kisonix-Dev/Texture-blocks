@@ -309,6 +309,19 @@
           "x": 156,
           "y": 133
         }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Tiles - ID_20",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Tiles - ID_20",
+          "x": 157,
+          "y": 144
+        }
       }
     ],
     "gridSettings": {

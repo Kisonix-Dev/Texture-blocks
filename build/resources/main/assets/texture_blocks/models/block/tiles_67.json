@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "texture_blocks:blocks/67_20",
+    "up": "texture_blocks:blocks/67_20",
+    "north": "texture_blocks:blocks/67_20",
+    "east": "texture_blocks:blocks/67_20",
+    "south": "texture_blocks:blocks/67_20",
+    "west": "texture_blocks:blocks/67_20",
+    "particle": "texture_blocks:blocks/67_20"
+  }
+}

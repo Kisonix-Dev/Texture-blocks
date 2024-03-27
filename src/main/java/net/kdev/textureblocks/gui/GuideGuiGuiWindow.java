@@ -98,6 +98,7 @@ public class GuideGuiGuiWindow extends ContainerScreen<GuideGuiGui.GuiContainerM
 		this.font.drawString(ms, "Parquet - ID_17", 113, 73, -12829636);
 		this.font.drawString(ms, "Wallpapers - ID_18 ", 113, 84, -12829636);
 		this.font.drawString(ms, "Sandstone - ID_19", 113, 96, -12829636);
+		this.font.drawString(ms, "Tiles - ID_20", 114, 107, -12829636);
 	}
 
 	@Override
