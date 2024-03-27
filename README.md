@@ -1,6 +1,5 @@
 ![Spectrum_Blocks_logo](img/Texture_blocks_logo.png)
 🔗 [All social media](https://github.com/Kisonix-Dev/Texture-blocks/wiki/Social-media)
-🔗 [Twitter](https://twitter.com/Kisonix_dev)
 🔗 [Reddit](https://www.reddit.com/user/Kisonix)
 🔗 [Documentation](https://github.com/Kisonix-Dev/Texture-Blocks/wiki/Home)
 🔗 [Planet Minecraft](https://www.planetminecraft.com/mod/texture-blocks/)
