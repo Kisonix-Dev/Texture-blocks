@@ -2,7 +2,7 @@
 🔗 [Planet Minecraft](https://www.planetminecraft.com/mod/texture-blocks/)
 
 > [!NOTE]
-> I decided not to post the source code of the modification for now.
+> I will soon post the source code for the mod: Texture Blocks.
 
 🔷 Basic information
 
